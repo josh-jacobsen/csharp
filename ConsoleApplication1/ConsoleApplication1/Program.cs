@@ -10,7 +10,13 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("what is your name?");
+            string guess;
+
+            do
+            {
+                Console.WriteLine("guess a number");
+                guess = Console.ReadLine();
+            } while (!guess.Equals("15"));
         }
     }
 }
