@@ -1,6 +1,0 @@
-C:\Users\Josh\Documents\GitHub\csharp\consoleTutorial\consoleTutorial\bin\Debug\consoleTutorial.exe.config
-C:\Users\Josh\Documents\GitHub\csharp\consoleTutorial\consoleTutorial\bin\Debug\consoleTutorial.exe
-C:\Users\Josh\Documents\GitHub\csharp\consoleTutorial\consoleTutorial\bin\Debug\consoleTutorial.pdb
-C:\Users\Josh\Documents\GitHub\csharp\consoleTutorial\consoleTutorial\obj\Debug\consoleTutorial.csprojResolveAssemblyReference.cache
-C:\Users\Josh\Documents\GitHub\csharp\consoleTutorial\consoleTutorial\obj\Debug\consoleTutorial.exe
-C:\Users\Josh\Documents\GitHub\csharp\consoleTutorial\consoleTutorial\obj\Debug\consoleTutorial.pdb
